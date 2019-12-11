@@ -8,8 +8,7 @@ Your task is to complete the todos-react app so that a user can...
 ![new todo in list](https://github.com/Cognizant-React/todos-react/blob/master/public/images/todos4.png "New todo added to list")
 * update an existing todo:
 ![update todo](https://github.com/Cognizant-React/todos-react/blob/master/public/images/todos2.png "Update todo")
-* cancel updating a todo:
-![cancel update todo](https://github.com/Cognizant-React/todos-react/blob/master/public/images/todos5.png "Delete todo")
+* cancel updating a todo
 * delete an exisiting todo:
 ![delete todo](https://github.com/Cognizant-React/todos-react/blob/master/public/images/todos5.png "Delete todo")
 
